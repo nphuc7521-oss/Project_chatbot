@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U7 Old Footprint=TO220-123 New Footprint=SOT223
+Change Component Footprint: Designator=U8 Old Footprint=TO220-123 New Footprint=SOT223
+Change Component Comment : Designator=U8 Old Comment=LM1117-5V New Comment=LM1117-3.3V

@@ -1,0 +1,12 @@
+Added Component: Designator=H11(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H11-2
+Added Pin To Net: NetName=GAS_D0 Pin=H11-3
+Added Pin To Net: NetName=GAS_A0 Pin=H11-4
+Added Member To Class: ClassName=DOAN2 Member=Component H11 Header 4P 2.54 Duc Thang

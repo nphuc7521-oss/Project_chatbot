@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MOTOR_IN1 Pin=U1-J1_4
+Removed Pin From Net: NetName=MOTOR_IN2 Pin=U1-J1_5
+Removed Pin From Net: NetName=MOTOR_ENA Pin=U1-J1_6
+Removed Pin From Net: NetName=MOTOR_IN4 Pin=U1-J1_12
+Removed Pin From Net: NetName=MOTOR_ENB Pin=U1-J1_15
+Removed Pin From Net: NetName=MOTOR_IN3 Pin=U1-J1_16
+Added Pin To Net: NetName=MOTOR_ENA Pin=U1-J1_4
+Added Pin To Net: NetName=MOTOR_IN1 Pin=U1-J1_5
+Added Pin To Net: NetName=MOTOR_IN2 Pin=U1-J1_6
+Added Pin To Net: NetName=MOTOR_ENB Pin=U1-J1_12
+Added Pin To Net: NetName=MOTOR_IN3 Pin=U1-J1_15
+Added Pin To Net: NetName=MOTOR_IN4 Pin=U1-J1_16

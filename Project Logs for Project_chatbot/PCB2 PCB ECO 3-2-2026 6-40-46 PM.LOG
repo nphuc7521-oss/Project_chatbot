@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J1 Old Footprint=CON6_100_B6B-XH-A_TH_ST New Footprint=CON6_100_S6B-XH-A_TH_RA
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CON6_100_B6B-XH-A_TH_ST"; UniqueID = "\ZBEOEGEH" ("\ZBEOEGEH")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Crimp Part Number"; Value = "ASXHSXH22K51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "S6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Part Number"; Value = "XHP-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "S6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "ARROW"; VariantName = "[No Variations]"

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23 New Footprint=TO92
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23 New Footprint=TO92
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-23 New Footprint=TO92
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23 New Footprint=TO92
+Change Component Comment : Designator=Q1 Old Comment=HF New Comment=?
+Change Component Comment : Designator=Q2 Old Comment=HF New Comment=?
+Change Component Comment : Designator=Q3 Old Comment=HF New Comment=?
+Change Component Comment : Designator=Q4 Old Comment=HF New Comment=?
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R4-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-1
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R8-1
+Added Net: Name=NetQ4_2

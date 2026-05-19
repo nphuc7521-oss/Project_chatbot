@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IRSENSOR Pin=U1-J3_5
+Removed Pin From Net: NetName=GAS_A0 Pin=U1-J3_17
+Added Pin To Net: NetName=GAS_A0 Pin=U1-J3_5
+Added Pin To Net: NetName=IRSENSOR Pin=U1-J3_17

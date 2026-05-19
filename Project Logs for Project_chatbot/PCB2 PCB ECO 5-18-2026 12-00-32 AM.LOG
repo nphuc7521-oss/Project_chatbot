@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RFID_MOSI Pin=U1-J1_17
+Removed Pin From Net: NetName=RFID_SCK Pin=U1-J1_18
+Added Pin To Net: NetName=RFID_SCK Pin=U1-J1_17
+Added Pin To Net: NetName=RFID_MOSI Pin=U1-J1_18

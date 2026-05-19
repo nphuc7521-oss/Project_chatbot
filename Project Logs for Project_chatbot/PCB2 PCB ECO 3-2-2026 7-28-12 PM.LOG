@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J3 Old Footprint=CON3_50_653003117322_TH_RA New Footprint=CON3_78_S3B-PH-K-S_TH_RA
+Change component parameters: Designator = "J3" ("J3"); Footprint = "CON3_50_653003117322_TH_RA"; UniqueID = "\AHLBSKDJ" ("\AHLBSKDJ")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Crimp Part Number"; Value = "ASPHSPH24K51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "S3B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Part Number"; Value = "PHR-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "S3B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "ARROW"; VariantName = "[No Variations]"

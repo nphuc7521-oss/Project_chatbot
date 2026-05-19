@@ -1,0 +1,4 @@
+Added Component: Designator=BT4(DE PIN 18650 X2)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH010812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "H?p Ð? Pin 18650 Hàn M?ch DP 18650-HM-02"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component BT4 18650

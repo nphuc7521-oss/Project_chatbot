@@ -1,0 +1,7 @@
+Added Component: Designator=U4(DIP4)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_1 Pin=U4-1
+Added Pin To Net: NetName=NetL2_1 Pin=U4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U4-3
+Added Pin To Net: NetName=JD_VCC Pin=U4-4
+Added Member To Class: ClassName=Sheet2 Member=Component U4 PC817

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5 Pin=J?-1
+Removed Pin From Net: NetName=+3V4 Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3
+Removed Member From Class: ClassName=Sheet2 Member=J?
+Added Component: Designator=J6(CON3_78_S3B-PH-K-S_TH_RA)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "ASPHSPH24K51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S3B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "PHR-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "S3B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "ARROW"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=+3V4 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Member To Class: ClassName=Sheet4 Member=Component J6 S3B-PH-K-S(LF)(SN)
