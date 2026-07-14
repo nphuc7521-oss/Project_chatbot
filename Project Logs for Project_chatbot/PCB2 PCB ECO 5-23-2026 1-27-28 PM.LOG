@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C7 Old Footprint=tu hoa 13mm New Footprint=tu nhom 6.3 (D)
+Change Component Comment : Designator=C7 Old Comment=10uF New Comment=47uF
+Change component parameters: Designator = "C7" ("C7"); Footprint = "tu hoa 13mm"; UniqueID = "\NCCPIVZE" ("\NCCPIVZE")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007468"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 47uF 16V"; VariantName = "[No Variations]"

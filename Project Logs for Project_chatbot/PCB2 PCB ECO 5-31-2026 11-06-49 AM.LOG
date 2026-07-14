@@ -1,0 +1,32 @@
+Added Component: Designator=P6(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=P7(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=P8(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=IN+ Pin=P6-2
+Added Pin To Net: NetName=IN+ Pin=P8-2
+Added Net: Name=IN+
+Added Pin To Net: NetName=IN- Pin=P6-1
+Added Pin To Net: NetName=IN- Pin=P8-1
+Added Net: Name=IN-
+Added Member To Class: ClassName=DOAN2 Member=Component P6 CON 2 EDG5.08
+Added Member To Class: ClassName=DOAN2 Member=Component P7 CON 2 EDG5.08
+Added Member To Class: ClassName=DOAN2 Member=Component P8 CON 2 EDG5.08

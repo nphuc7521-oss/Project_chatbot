@@ -1,0 +1,414 @@
+Removed Pin From Net: NetName=QUAT Pin=D3-2
+Removed Pin From Net: NetName=DENAN Pin=D4-2
+Removed Pin From Net: NetName=DENNGU Pin=D8-2
+Removed Pin From Net: NetName=DENKHACH Pin=D9-2
+Removed Pin From Net: NetName=DENBAO Pin=D10-2
+Removed Pin From Net: NetName=GND Pin=H4-3
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=NetD3_1 Pin=U3-2
+Removed Pin From Net: NetName=NetD4_1 Pin=U4-2
+Removed Pin From Net: NetName=NetR6_1 Pin=U5-1
+Removed Pin From Net: NetName=NetR13_1 Pin=U6-3
+Removed Member From Class: ClassName=DOAN2 Member=C8
+Removed Member From Class: ClassName=DOAN2 Member=C9
+Removed Member From Class: ClassName=DOAN2 Member=C10
+Removed Member From Class: ClassName=DOAN2 Member=C11
+Removed Member From Class: ClassName=DOAN2 Member=C12
+Removed Member From Class: ClassName=DOAN2 Member=D6
+Removed Member From Class: ClassName=DOAN2 Member=D7
+Removed Member From Class: ClassName=DOAN2 Member=D8
+Removed Member From Class: ClassName=DOAN2 Member=D9
+Removed Member From Class: ClassName=DOAN2 Member=D10
+Removed Member From Class: ClassName=DOAN2 Member=H2
+Removed Member From Class: ClassName=DOAN2 Member=H3
+Removed Member From Class: ClassName=DOAN2 Member=H4
+Removed Member From Class: ClassName=DOAN2 Member=H5
+Removed Member From Class: ClassName=DOAN2 Member=H6
+Removed Member From Class: ClassName=DOAN2 Member=H7
+Removed Member From Class: ClassName=DOAN2 Member=P10
+Removed Member From Class: ClassName=DOAN2 Member=R16
+Removed Member From Class: ClassName=DOAN2 Member=R17
+Removed Member From Class: ClassName=DOAN2 Member=R18
+Removed Member From Class: ClassName=DOAN2 Member=R19
+Removed Member From Class: ClassName=DOAN2 Member=R20
+Change Component Footprint: Designator=D3 Old Footprint=DIODE 0.5A New Footprint=DIODE 1A
+Change Component Footprint: Designator=D4 Old Footprint=DIODE 0.5A New Footprint=DIODE 1A
+Change Component Footprint: Designator=Q1 Old Footprint=TO92 New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=Q2 Old Footprint=TO92 New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=Q3 Old Footprint=TO92 New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=Q4 Old Footprint=TO92 New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=Q5 Old Footprint=TO92 New Footprint=ONSC-TO-92-3-29-11
+Change Component Comment : Designator=R8 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R12 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R1 Old Comment=470R New Comment=1k
+Change Component Comment : Designator=R2 Old Comment=470R New Comment=1k
+Change Component Comment : Designator=R5 Old Comment=470R New Comment=1k
+Change Component Comment : Designator=R6 Old Comment=470R New Comment=1k
+Change Component Comment : Designator=R7 Old Comment=470R New Comment=1k
+Change Component Comment : Designator=Q1 Old Comment=C1815 New Comment=BC547B
+Change Component Comment : Designator=Q2 Old Comment=C1815 New Comment=BC547B
+Change Component Comment : Designator=Q3 Old Comment=C1815 New Comment=BC547B
+Change Component Comment : Designator=Q4 Old Comment=C1815 New Comment=BC547B
+Change Component Comment : Designator=Q5 Old Comment=C1815 New Comment=BC547B
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3FDC9111-A9E1-4CFC-B614-3B9BA7CCBE99 Old RevisionGUID= New RevisionGUID=BCF058BD-977B-497B-AE3D-78525A77E82D
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3FDC9111-A9E1-4CFC-B614-3B9BA7CCBE99 Old RevisionGUID= New RevisionGUID=BCF058BD-977B-497B-AE3D-78525A77E82D
+Change Managed Component Library Link : Designator=Q3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3FDC9111-A9E1-4CFC-B614-3B9BA7CCBE99 Old RevisionGUID= New RevisionGUID=BCF058BD-977B-497B-AE3D-78525A77E82D
+Change Managed Component Library Link : Designator=Q4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3FDC9111-A9E1-4CFC-B614-3B9BA7CCBE99 Old RevisionGUID= New RevisionGUID=BCF058BD-977B-497B-AE3D-78525A77E82D
+Change Managed Component Library Link : Designator=Q5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3FDC9111-A9E1-4CFC-B614-3B9BA7CCBE99 Old RevisionGUID= New RevisionGUID=BCF058BD-977B-497B-AE3D-78525A77E82D
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DIODE 0.5A"; UniqueID = "\MOMIWVQL" ("\MOMIWVQL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIODE 0.5A"; UniqueID = "\DAMDAVKS" ("\DAMDAVKS")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TO92"; UniqueID = "\MMTEULDS" ("\MMTEULDS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "TO92"; UniqueID = "\LCABXVTX" ("\LCABXVTX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "TO92"; UniqueID = "\PYEORTWV" ("\PYEORTWV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "TO92"; UniqueID = "\CAPSLLET" ("\CAPSLLET")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "TO92"; UniqueID = "\XMGTAPQS" ("\XMGTAPQS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "tro vach 1/4w"; UniqueID = "\WBWIASVY" ("\WBWIASVY")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "tro vach 1/4w"; UniqueID = "\GGVGQVDL" ("\GGVGQVDL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "tro vach 1/4w"; UniqueID = "\VHDMNBGJ" ("\VHDMNBGJ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "tro vach 1/4w"; UniqueID = "\PRMNNNKQ" ("\PRMNNNKQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "tro vach 1/4w"; UniqueID = "\KIOHDCIB" ("\KIOHDCIB")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "tro vach 1/4w"; UniqueID = "\ZCBJEVHH" ("\ZCBJEVHH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "tro vach 1/4w"; UniqueID = "\HPPLZAOW" ("\HPPLZAOW")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=L4(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=L5(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=L6(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=P4(CON 3 3EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000760"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 3 2EDG5.08-3P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=5V Pin=D2-2
+Added Pin To Net: NetName=5V Pin=D3-2
+Added Pin To Net: NetName=5V Pin=D4-2
+Added Pin To Net: NetName=5V Pin=D5-2
+Added Pin To Net: NetName=5V Pin=H1-1
+Added Pin To Net: NetName=QUAT Pin=L2-2
+Added Pin To Net: NetName=DENAN Pin=L3-2
+Added Pin To Net: NetName=DENKHACH Pin=L4-2
+Added Pin To Net: NetName=DENNGU Pin=L5-2
+Added Pin To Net: NetName=DENBAO Pin=L6-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R5-1
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=5V Pin=R12-1
+Added Pin To Net: NetName=5V Pin=RL1-5
+Added Pin To Net: NetName=5V Pin=RL2-5
+Added Pin To Net: NetName=NetD3_1 Pin=RL3-4
+Added Pin To Net: NetName=5V Pin=RL3-5
+Added Pin To Net: NetName=NetD4_1 Pin=RL4-4
+Added Pin To Net: NetName=5V Pin=RL4-5
+Added Pin To Net: NetName=5V Pin=RL5-5
+Added Pin To Net: NetName=5V Pin=U3-4
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Pin To Net: NetName=NetR6_1 Pin=U5-3
+Added Pin To Net: NetName=5V Pin=U5-4
+Added Pin To Net: NetName=5V Pin=U6-4
+Added Pin To Net: NetName=NetR13_1 Pin=U7-3
+Added Pin To Net: NetName=5V Pin=U7-4
+Added Pin To Net: NetName=COM - 1 Pin=P1-2
+Added Pin To Net: NetName=COM - 1 Pin=RL1-1
+Added Net: Name=COM - 1
+Added Pin To Net: NetName=COM - 2 Pin=P4-2
+Added Pin To Net: NetName=COM - 2 Pin=RL4-1
+Added Net: Name=COM - 2
+Added Pin To Net: NetName=COM - 3 Pin=P2-2
+Added Pin To Net: NetName=COM - 3 Pin=RL2-1
+Added Net: Name=COM - 3
+Added Pin To Net: NetName=COM - 4 Pin=P3-2
+Added Pin To Net: NetName=COM - 4 Pin=RL3-1
+Added Net: Name=COM - 4
+Added Pin To Net: NetName=COM - 5 Pin=P5-2
+Added Pin To Net: NetName=COM - 5 Pin=RL5-1
+Added Net: Name=COM - 5
+Added Pin To Net: NetName=NC - 1 Pin=P1-3
+Added Pin To Net: NetName=NC - 1 Pin=RL1-3
+Added Net: Name=NC - 1
+Added Pin To Net: NetName=NC - 2 Pin=P4-3
+Added Pin To Net: NetName=NC - 2 Pin=RL4-3
+Added Net: Name=NC - 2
+Added Pin To Net: NetName=NC - 3 Pin=P2-3
+Added Pin To Net: NetName=NC - 3 Pin=RL2-3
+Added Net: Name=NC - 3
+Added Pin To Net: NetName=NC - 4 Pin=P3-3
+Added Pin To Net: NetName=NC - 4 Pin=RL3-3
+Added Net: Name=NC - 4
+Added Pin To Net: NetName=NC - 5 Pin=P5-3
+Added Pin To Net: NetName=NC - 5 Pin=RL5-3
+Added Net: Name=NC - 5
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=RL1-4
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetD2_1 Pin=RL2-4
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetD5_1 Pin=RL5-4
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U3-2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U4-2
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=U5-2
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=U6-2
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=U7-2
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R4-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R8-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R13-2
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U3-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U4-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U5-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U6-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U6-3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U7-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NO - 1 Pin=P1-1
+Added Pin To Net: NetName=NO - 1 Pin=RL1-2
+Added Net: Name=NO - 1
+Added Pin To Net: NetName=NO - 2 Pin=P4-1
+Added Pin To Net: NetName=NO - 2 Pin=RL4-2
+Added Net: Name=NO - 2
+Added Pin To Net: NetName=NO - 3 Pin=P2-1
+Added Pin To Net: NetName=NO - 3 Pin=RL2-2
+Added Net: Name=NO - 3
+Added Pin To Net: NetName=NO - 4 Pin=P3-1
+Added Pin To Net: NetName=NO - 4 Pin=RL3-2
+Added Net: Name=NO - 4
+Added Pin To Net: NetName=NO - 5 Pin=P5-1
+Added Pin To Net: NetName=NO - 5 Pin=RL5-2
+Added Net: Name=NO - 5
+Added Member To Class: ClassName=DOAN2 Member=Component L2 LED 5mm
+Added Member To Class: ClassName=DOAN2 Member=Component L3 LED 5mm
+Added Member To Class: ClassName=DOAN2 Member=Component L4 LED 5mm
+Added Member To Class: ClassName=DOAN2 Member=Component L5 LED 5mm
+Added Member To Class: ClassName=DOAN2 Member=Component L6 LED 5mm
+Added Member To Class: ClassName=DOAN2 Member=Component P4 CON 3 EDG5.08

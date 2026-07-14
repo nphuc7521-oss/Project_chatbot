@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=3V3 Pin=U8-2
+Removed Pin From Net: NetName=5V Pin=U8-3
+Removed Member From Class: ClassName=Machnguon Member=U8
+Added Component: Designator=H14(Header 3P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H14-1
+Added Pin To Net: NetName=3V3 Pin=H14-2
+Added Pin To Net: NetName=5V Pin=H14-3
+Added Member To Class: ClassName=Machnguon Member=Component H14 Header 3P 2.54 Duc Cong

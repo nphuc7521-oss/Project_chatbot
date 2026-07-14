@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=H2 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-4
+Change Component Footprint: Designator=H3 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-4
+Change Component Footprint: Designator=H4 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-4
+Change Component Footprint: Designator=H5 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-4
+Change Component Footprint: Designator=H6 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-4
+Change Component Comment : Designator=H2 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 4P 2.54 Duc Thang
+Change Component Comment : Designator=H3 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 4P 2.54 Duc Thang
+Change Component Comment : Designator=H4 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 4P 2.54 Duc Thang
+Change Component Comment : Designator=H5 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 4P 2.54 Duc Thang
+Change Component Comment : Designator=H6 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 4P 2.54 Duc Thang
+Change component parameters: Designator = "H2" ("H2"); Footprint = "Header 3P DC 2.54"; UniqueID = "\GTOOIILG" ("\GTOOIILG")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "Header 3P DC 2.54"; UniqueID = "\IYCRQRCN" ("\IYCRQRCN")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "Header 3P DC 2.54"; UniqueID = "\RSAWTVGZ" ("\RSAWTVGZ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H5" ("H5"); Footprint = "Header 3P DC 2.54"; UniqueID = "\URPBVNFP" ("\URPBVNFP")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H6" ("H6"); Footprint = "Header 3P DC 2.54"; UniqueID = "\VDEETYCK" ("\VDEETYCK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=GND Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H5-4
+Added Pin To Net: NetName=GND Pin=H6-4
